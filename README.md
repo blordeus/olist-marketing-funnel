@@ -2,7 +2,7 @@
 
 **Tools Used:** Power Query (M) | Power BI | DAX
 **Data:** [Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist) — 8,000 real, anonymized marketing-qualified leads (MQLs) from a Brazilian e-commerce marketplace, joined to order-level transaction data
-**Links:** [Download the .pbix file](Olist_Marketing_Funnel_Revenue_Analysis.pbix) · [Dashboard PDF export](Olist_Marketing_Funnel_Revenue_Analysis.pdf) *(update these to your hosted GitHub/Drive links once uploaded)*
+**Links:** [Download the .pbix file](Olist_Marketing_Funnel_Revenue_Analysis.pbix) · [Dashboard PDF export](Olist_Marketing_Funnel_Revenue_Analysis.pdf) · [Full repo](https://github.com/blordeus/olist-marketing-funnel)
 
 ## Business Overview & Objective
 
